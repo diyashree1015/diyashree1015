@@ -1,63 +1,89 @@
-👋 Hey, I’m L.Diya Shree 
-
-✨ Engineer by discipline. Builder by passion.
-
+👋 Hey, I'm Diya Shree L
+<h3 align="center">Full-Stack Developer ⚡ | AI Explorer 🤖 | ECE Engineer 🎓</h3>
 🚀 About Me
 class DiyaShree:
+
     def __init__(self):
-        self.role = "Full-Stack Developer | AI Explorer"
-        self.background = "Electronics & Computer Engineering"
+        self.role = "Full-Stack Developer | AI-Driven Systems Builder"
+        self.education = "Electronics & Computer Engineering"
         self.location = "India 🇮🇳"
-        self.interests = ["Scalable Systems", "AI Integration", "Hackathons", "Real-world Impact"]
-        self.current_focus = ["AI-powered Applications", "System Design", "Production-ready Projects"]
+        self.interests = [
+            "Scalable Architectures",
+            "AI Integration",
+            "Hackathons",
+            "Real-World Problem Solving"
+        ]
+        self.current_focus = [
+            "AI-Powered Web Applications",
+            "System Design",
+            "Backend Optimization",
+            "Production-Ready Systems"
+        ]
 
-    def mission(self):
-        return "Turning ideas into intelligent, scalable reality."
-🧠 What I Build
+    def vision(self):
+        return "Build intelligent systems that scale and create impact."
+🎯 What I Do
+✨ Core Focus
 
-🔹 Full-stack web applications
-🔹 AI-powered systems
-🔹 Real-world problem-solving solutions
-🔹 Production-ready scalable architectures
+🌐 Full-Stack Web Development
+
+🤖 AI-Integrated Applications
+
+🏗 Scalable Backend Architectures
+
+🧠 Problem-Solving with Engineering Mindset
 
 🌱 Currently Exploring
 
 ⚡ Advanced System Design
-🤖 AI Integration in Web Apps
-📈 Performance Optimization
-🛠 Clean Architecture & Scalable Backends
+
+🤖 AI × Web Integration
+
+📊 Performance Optimization
+
+🧩 Clean Architecture Principles
 
 🛠 Tech Stack
-💻 Core
+💻 Languages
 
-Python • JavaScript • TypeScript • C/C++
+Python JavaScript TypeScript C C++
 
 🌐 Full-Stack
 
-Next.js • React • Node.js • Express • PostgreSQL • Prisma
+Next.js React Node.js Express PostgreSQL Prisma
 
 🤖 AI & Data
 
-NumPy • Pandas • Matplotlib • SciPy • ML Fundamentals
+NumPy Pandas Matplotlib SciPy Machine Learning
 
-🛠 Tools
+🔧 Tools & DevOps
 
-Git • GitHub • Supabase • Postman • VS Code
+Git GitHub Supabase Postman VS Code
 
 🔥 What Drives Me
 
-💡 Building technology that solves real problems
-🏆 Participating in hackathons & innovation programs
-📚 Continuous learning & skill evolution
-🌍 Creating systems that scale beyond the classroom
+💡 Turning ideas → architecture → scalable systems
 
-🎯 Open To
+🏆 Participating in hackathons & technical programs
+
+📚 Continuous learning & deep technical growth
+
+🌍 Building systems that go beyond academic projects
+
+🤝 Let’s Connect & Collaborate
+
+💼 Open to:
 
 🚀 Full-Stack Projects
+
 🤖 AI-Based Applications
-🏆 Hackathons & Technical Collaborations
+
+🏆 Hackathons
+
 💼 Internship Opportunities
 
 ✨ Personal Philosophy
 
-Design with purpose. Build with precision. Scale with vision.
+Design with clarity.
+Build with precision.
+Scale with purpose.
