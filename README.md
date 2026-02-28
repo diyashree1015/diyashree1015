@@ -1,22 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%26+AI+Explorer;Electronics+%26+Computer+Engineer;Building+Scalable+Real-World+Solutions" />
-</p>
-
-# Hey There, I'm Diya Shree L
-
-<h2 align="center">Full-Stack Developer ⚡ | AI Explorer 🤖</h2>
-
----
-
-## 🚀 About Me
-
-```python
-class DiyaShree: 
-    def __init__(self): 
-        self.role = "Full-Stack Developer | AI Systems Builder"; self.location = "India 🇮🇳"; self.focus = ["Scalable Systems", "AI Integration", "Hackathons"]
-    def say_hi(self): 
-        print("✨ Let's build something impactful!")🎯 What I Do<br>✨ Focus Areas<br>🌐 Full-Stack Web Development<br>🤖 AI-Integrated Applications<br>🏗 Scalable Backend Architectures<br>🧠 Engineering-Driven Problem Solving<br>🎬 Love watching dramas in different languages<br>🏀🏸 Basketball & Badminton enthusiast<br><br>🌱 Currently Exploring<br>⚡ Advanced System Design<br>🤖 AI × Web Applications<br>📊 Performance Optimization<br>🧩 Clean Architecture Principles<br><br>🔥 What Drives Me<br>💡 Turning ideas → architecture → scalable systems<br>🏆 Participating in hackathons & innovation programs<br>📚 Continuous technical growth<br>🌍 Building impactful real-world solutions<br><br>🤝 Let’s Connect & Collaborate<br>💼 Professional Networks<br>📧 Email: ldiyashree@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/l-diya-shree-638621330/<br><br>🎯 Open To<br>🚀 Full-Stack Projects<br>🤖 AI-Based Applications<br>🏆 Hackathons & Technical Collaborations<br>🎓 Internship Opportunities<br><br>✨ Engineering Philosophy<br>      Build with clarity.<br>      Scale with precision.<br>      Innovate with purpose.
-
+# 💫 About Me:
+<p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=38&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+AI+Explorer;Electronics+%26+Computer+Engineer;Building+Scalable+Real-World+Solutions" /><br></p><br><br># Hey There, I'm L.Diya Shree <br><br><h2 align="center">Full-Stack Developer ⚡ | AI Explorer 🤖</h2><br><br>---<br><br>## 🚀 About Me<br><br>```python<br>class DiyaShree:<br><br>    def __init__(self):<br>        self.role = "Full-Stack Developer | AI Systems Builder"<br>        self.location = "India 🇮🇳"<br>        self.focus = ["Scalable Systems", "AI Integration", "Hackathons"]<br><br>    def say_hi(self):<br>        print("✨ Let's build something impactful!")<br>🎯 What I Do<br>✨ Focus Areas<br>🌐 Full-Stack Web Development<br>🤖 AI-Integrated Applications<br>🏗 Scalable Backend Architectures<br>🧠 Engineering-Driven Problem Solving<br>🎬 Love watching dramas in different languages<br>🏀🏸 Basketball & Badminton enthusiast<br><br>🌱 Currently Exploring<br>⚡ Advanced System Design<br>🤖 AI × Web Applications<br>📊 Performance Optimization<br>🧩 Clean Architecture Principles<br><br>🔥 What Drives Me<br>💡 Turning ideas → architecture → scalable systems<br>🏆 Participating in hackathons & innovation programs<br>📚 Continuous technical growth<br>🌍 Building impactful real-world solutions<br><br>🤝 Let’s Connect & Collaborate<br>💼 Professional Networks<br>📧 Email: ldiyashree@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/l-diya-shree-638621330/<br><br>🎯 Open To<br>🚀 Full-Stack Projects<br>🤖 AI-Based Applications<br>🏆 Hackathons & Technical Collaborations<br>🎓 Internship Opportunities<br><br>✨ Engineering Philosophy<br>      Build with clarity.<br>      Scale with precision.<br>      Innovate with purpose.
 
 
 # 💻 Tech Stack:
