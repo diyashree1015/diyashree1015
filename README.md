@@ -20,8 +20,9 @@ class DiyaShree:
 
     def say_hi(self):
         print("✨ Let's build something impactful!")
-🎯 What I Do
 
+
+🎯 What I Do
 ✨ Focus Areas
 🌐 Full-Stack Web Development
 🤖 AI-Integrated Applications
@@ -30,29 +31,32 @@ class DiyaShree:
 🎬 Love watching dramas in different languages
 🏀🏸 Basketball & Badminton enthusiast
 
-🌱 Currently Exploring
 
+🌱 Currently Exploring
 ⚡ Advanced System Design
 🤖 AI × Web Applications
 📊 Performance Optimization
 🧩 Clean Architecture Principles
 
-🔥 What Drives Me
 
+🔥 What Drives Me
 💡 Turning ideas → architecture → scalable systems
 🏆 Participating in hackathons & innovation programs
 📚 Continuous technical growth
 🌍 Building impactful real-world solutions
 
+
 🤝 Let’s Connect & Collaborate
 📧 Email: ldiyashree@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/l-diya-shree-638621330/
+
 
 🎯 Open To
 🚀 Full-Stack Projects
 🤖 AI-Based Applications
 🏆 Hackathons & Technical Collaborations
 🎓 Internship Opportunities
+
 
 ✨ Engineering Philosophy
    Build with clarity.
